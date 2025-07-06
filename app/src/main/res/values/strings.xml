@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RideHailingApp</string>
+    <string-array name="ride_types">
+        <item>Bike</item>
+        <item>Car</item>
+        <item>Rickshaw</item>
+    </string-array>
+</resources>

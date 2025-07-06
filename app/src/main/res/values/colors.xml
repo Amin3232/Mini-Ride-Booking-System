@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Modern Creative Theme -->
+    <color name="primary">#6366F1</color> <!-- Indigo -->
+    <color name="primary_dark">#4338CA</color>
+    <color name="primary_light">#A5B4FC</color>
+    <color name="secondary">#F59E0B</color> <!-- Amber -->
+    <color name="secondary_dark">#D97706</color>
+    <color name="secondary_light">#FCD34D</color>
+    <color name="accent">#10B981</color> <!-- Emerald -->
+    <color name="accent_dark">#059669</color>
+    <color name="accent_light">#6EE7B7</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F8FAFC</color> <!-- Slate 50 -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color> <!-- Slate 100 -->
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1E293B</color> <!-- Slate 800 -->
+    <color name="text_secondary">#64748B</color> <!-- Slate 500 -->
+    <color name="text_tertiary">#94A3B8</color> <!-- Slate 400 -->
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color> <!-- Green -->
+    <color name="warning">#F59E0B</color> <!-- Yellow -->
+    <color name="error">#EF4444</color> <!-- Red -->
+    <color name="info">#3B82F6</color> <!-- Blue -->
+    
+    <!-- Divider and Border -->
+    <color name="divider">#E2E8F0</color> <!-- Slate 200 -->
+    <color name="border">#CBD5E1</color> <!-- Slate 300 -->
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6366F1</color>
+    <color name="gradient_end">#8B5CF6</color>
+    <color name="gradient_secondary_start">#F59E0B</color>
+    <color name="gradient_secondary_end">#EF4444</color>
+</resources>
